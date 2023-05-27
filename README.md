@@ -12,7 +12,7 @@
 
 - 👯 I’m currently Collaborate with Nusantech **Pentester**
 
-- 👨‍💻 All of my projects are available at [thoriqhanif.github.io/thoriq-hanif/](thoriqhanif.github.io/thoriq-hanif/)
+- 👨‍💻 All of my projects are available at [https://thoriqhanif.github.io/thoriq-hanif/](https://thoriqhanif.github.io/thoriq-hanif/)
 
 - 📫 How to reach me **thoriqmuh123.alkapro@gmail.com**
 
